@@ -1,5 +1,5 @@
 # Quick Chat - Node.js
-Node Js app that implements websocket (socket.io) for chatting
+Node Js app that implements socket.io for chatting
 
 This repo only contains `Node.js` (backend) part of the project. The frontend (Flutter) of this project an be found in
 <a href="https://github.com/nikkon404/quick-chat-flutter.git">Flutter Frontend</a>
